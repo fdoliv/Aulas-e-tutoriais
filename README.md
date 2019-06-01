@@ -17,3 +17,4 @@ Repositório para centralizar aulas, textos e tutoriais.
 14) [A Practical Guide to LXC and LXD](https://www.youtube.com/playlist?list=PLd78WKkBK5Dj7uKDcaQMl9m1wQQigNjJy)
 15) [TDD - Desenvolvimento Orientado a Testes](https://www.youtube.com/playlist?list=PL1FYTn0hQ9YOtl-4P_O5KIoJAUaWez6BW)
 16) [BDD - Desenvolvimento Orientado por Comportamento](https://www.youtube.com/playlist?list=PLsJGhs3ZmfHJZimqHTm_ujHUZv-G6yNxw)
+17) [APIs in Laravel](https://www.youtube.com/playlist?list=PL3ZhWMazGi9KGG64X_HJlZ_sQuvyFGoMo)
